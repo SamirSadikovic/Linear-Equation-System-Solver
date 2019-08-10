@@ -1,0 +1,90 @@
+C:\Users\Samir\Desktop\Linear equation solver\Linear equation solver\Linear equation solver\bin\x86\Debug\Linear equation solver.exe.config
+C:\Users\Samir\Desktop\Linear equation solver\Linear equation solver\Linear equation solver\bin\x86\Debug\Linear equation solver.exe
+C:\Users\Samir\Desktop\Linear equation solver\Linear equation solver\Linear equation solver\bin\x86\Debug\Linear equation solver.pdb
+C:\Users\Samir\Desktop\Linear equation solver\Linear equation solver\Linear equation solver\bin\x86\Debug\OxyPlot.dll
+C:\Users\Samir\Desktop\Linear equation solver\Linear equation solver\Linear equation solver\bin\x86\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Samir\Desktop\Linear equation solver\Linear equation solver\Linear equation solver\bin\x86\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\Samir\Desktop\Linear equation solver\Linear equation solver\Linear equation solver\bin\x86\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Samir\Desktop\Linear equation solver\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear_equation_solver.Main_solver.resources
+C:\Users\Samir\Desktop\Linear equation solver\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear_equation_solver.Graph.resources
+C:\Users\Samir\Desktop\Linear equation solver\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear_equation_solver.Properties.Resources.resources
+C:\Users\Samir\Desktop\Linear equation solver\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear equation solver.csproj.GenerateResource.Cache
+C:\Users\Samir\Desktop\Linear equation solver\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear equation solver.exe
+C:\Users\Samir\Desktop\Linear equation solver\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear equation solver.pdb
+C:\Users\Sead Smailagic\Desktop\Linear equation solver\Linear equation solver\Linear equation solver\bin\x86\Debug\Linear equation solver.exe.config
+C:\Users\Sead Smailagic\Desktop\Linear equation solver\Linear equation solver\Linear equation solver\bin\x86\Debug\Linear equation solver.exe
+C:\Users\Sead Smailagic\Desktop\Linear equation solver\Linear equation solver\Linear equation solver\bin\x86\Debug\Linear equation solver.pdb
+C:\Users\Sead Smailagic\Desktop\Linear equation solver\Linear equation solver\Linear equation solver\bin\x86\Debug\OxyPlot.dll
+C:\Users\Sead Smailagic\Desktop\Linear equation solver\Linear equation solver\Linear equation solver\bin\x86\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Sead Smailagic\Desktop\Linear equation solver\Linear equation solver\Linear equation solver\bin\x86\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\Sead Smailagic\Desktop\Linear equation solver\Linear equation solver\Linear equation solver\bin\x86\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Sead Smailagic\Desktop\Linear equation solver\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear equation solver.csprojAssemblyReference.cache
+C:\Users\Sead Smailagic\Desktop\Linear equation solver\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear_equation_solver.Main_solver.resources
+C:\Users\Sead Smailagic\Desktop\Linear equation solver\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear_equation_solver.Graph.resources
+C:\Users\Sead Smailagic\Desktop\Linear equation solver\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear_equation_solver.Properties.Resources.resources
+C:\Users\Sead Smailagic\Desktop\Linear equation solver\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear equation solver.csproj.GenerateResource.cache
+C:\Users\Sead Smailagic\Desktop\Linear equation solver\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear equation solver.csproj.CoreCompileInputs.cache
+C:\Users\Sead Smailagic\Desktop\Linear equation solver\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear equation solver.csproj.CopyComplete
+C:\Users\Sead Smailagic\Desktop\Linear equation solver\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear equation solver.exe
+C:\Users\Sead Smailagic\Desktop\Linear equation solver\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear equation solver.pdb
+C:\Users\Sead Smailagic\Desktop\Linear equation solver\Linear equation solver\Linear equation solver\bin\x86\Debug\Linear equation system solver database.mdb
+C:\Users\Samir\Downloads\Linear equation solver\Linear equation solver\Linear equation solver\bin\x86\Debug\Linear equation solver.exe.config
+C:\Users\Samir\Downloads\Linear equation solver\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear equation solver.exe
+C:\Users\Samir\Downloads\Linear equation solver\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear equation solver.pdb
+C:\Users\Samir\Downloads\Linear equation solver\Linear equation solver\Linear equation solver\bin\x86\Debug\Linear equation system solver database.mdb
+C:\Users\Samir\Downloads\Linear equation solver\Linear equation solver\Linear equation solver\bin\x86\Debug\Linear equation solver.exe
+C:\Users\Samir\Downloads\Linear equation solver\Linear equation solver\Linear equation solver\bin\x86\Debug\Linear equation solver.pdb
+C:\Users\Samir\Downloads\Linear equation solver\Linear equation solver\Linear equation solver\bin\x86\Debug\OxyPlot.dll
+C:\Users\Samir\Downloads\Linear equation solver\Linear equation solver\Linear equation solver\bin\x86\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Samir\Downloads\Linear equation solver\Linear equation solver\Linear equation solver\bin\x86\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\Samir\Downloads\Linear equation solver\Linear equation solver\Linear equation solver\bin\x86\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Samir\Downloads\Linear equation solver\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear_equation_solver.Main_solver.resources
+C:\Users\Samir\Downloads\Linear equation solver\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear_equation_solver.Graph.resources
+C:\Users\Samir\Downloads\Linear equation solver\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear_equation_solver.Properties.Resources.resources
+C:\Users\Samir\Downloads\Linear equation solver\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear equation solver.csproj.GenerateResource.Cache
+C:\Users\Samir\Downloads\Linear equation solver\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear equation solver.csprojResolveAssemblyReference.cache
+C:\Users\Samir\Desktop\Linear equation solver\Linear equation solver\bin\x86\Debug\Linear equation solver.exe.config
+C:\Users\Samir\Desktop\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear equation solver.exe
+C:\Users\Samir\Desktop\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear equation solver.pdb
+C:\Users\Samir\Desktop\Linear equation solver\Linear equation solver\bin\x86\Debug\Linear equation system solver database.mdb
+C:\Users\Samir\Desktop\Linear equation solver\Linear equation solver\bin\x86\Debug\Linear equation solver.exe
+C:\Users\Samir\Desktop\Linear equation solver\Linear equation solver\bin\x86\Debug\Linear equation solver.pdb
+C:\Users\Samir\Desktop\Linear equation solver\Linear equation solver\bin\x86\Debug\OxyPlot.dll
+C:\Users\Samir\Desktop\Linear equation solver\Linear equation solver\bin\x86\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Samir\Desktop\Linear equation solver\Linear equation solver\bin\x86\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\Samir\Desktop\Linear equation solver\Linear equation solver\bin\x86\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Samir\Desktop\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear equation solver.csprojResolveAssemblyReference.cache
+C:\Users\Samir\Desktop\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear_equation_solver.Main_solver.resources
+C:\Users\Samir\Desktop\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear_equation_solver.Graph.resources
+C:\Users\Samir\Desktop\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear_equation_solver.Properties.Resources.resources
+C:\Users\Samir\Desktop\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear equation solver.csproj.GenerateResource.Cache
+C:\Users\Samir\Downloads\New folder\Linear equation solver\Linear equation solver\bin\x86\Debug\Linear equation solver.exe.config
+C:\Users\Samir\Downloads\New folder\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear equation solver.exe
+C:\Users\Samir\Downloads\New folder\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear equation solver.pdb
+C:\Users\Samir\Downloads\New folder\Linear equation solver\Linear equation solver\bin\x86\Debug\Linear equation system solver database.mdb
+C:\Users\Samir\Downloads\New folder\Linear equation solver\Linear equation solver\bin\x86\Debug\Linear equation solver.exe
+C:\Users\Samir\Downloads\New folder\Linear equation solver\Linear equation solver\bin\x86\Debug\Linear equation solver.pdb
+C:\Users\Samir\Downloads\New folder\Linear equation solver\Linear equation solver\bin\x86\Debug\OxyPlot.dll
+C:\Users\Samir\Downloads\New folder\Linear equation solver\Linear equation solver\bin\x86\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Samir\Downloads\New folder\Linear equation solver\Linear equation solver\bin\x86\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\Samir\Downloads\New folder\Linear equation solver\Linear equation solver\bin\x86\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Samir\Downloads\New folder\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear equation solver.csprojResolveAssemblyReference.cache
+C:\Users\Samir\Downloads\New folder\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear_equation_solver.Main_solver.resources
+C:\Users\Samir\Downloads\New folder\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear_equation_solver.Graph.resources
+C:\Users\Samir\Downloads\New folder\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear_equation_solver.Properties.Resources.resources
+C:\Users\Samir\Downloads\New folder\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear equation solver.csproj.GenerateResource.Cache
+C:\Users\Samir\Downloads\Linear equation solver\Linear equation solver\bin\x86\Debug\Linear equation solver.exe.config
+C:\Users\Samir\Downloads\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear equation solver.exe
+C:\Users\Samir\Downloads\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear equation solver.pdb
+C:\Users\Samir\Downloads\Linear equation solver\Linear equation solver\bin\x86\Debug\Linear equation system solver database.mdb
+C:\Users\Samir\Downloads\Linear equation solver\Linear equation solver\bin\x86\Debug\Linear equation solver.exe
+C:\Users\Samir\Downloads\Linear equation solver\Linear equation solver\bin\x86\Debug\Linear equation solver.pdb
+C:\Users\Samir\Downloads\Linear equation solver\Linear equation solver\bin\x86\Debug\OxyPlot.dll
+C:\Users\Samir\Downloads\Linear equation solver\Linear equation solver\bin\x86\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Samir\Downloads\Linear equation solver\Linear equation solver\bin\x86\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\Samir\Downloads\Linear equation solver\Linear equation solver\bin\x86\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Samir\Downloads\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear equation solver.csprojResolveAssemblyReference.cache
+C:\Users\Samir\Downloads\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear_equation_solver.Main_solver.resources
+C:\Users\Samir\Downloads\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear_equation_solver.Graph.resources
+C:\Users\Samir\Downloads\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear_equation_solver.Properties.Resources.resources
+C:\Users\Samir\Downloads\Linear equation solver\Linear equation solver\obj\x86\Debug\Linear equation solver.csproj.GenerateResource.Cache
